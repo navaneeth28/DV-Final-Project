@@ -1,9 +1,9 @@
-Order Pattern Analysis Using Data Visualization
-
+**Order Pattern Analysis Using Data Visualization
+**
 This project explores patterns in retail order data using Python-based data visualization techniques. The objective of the analysis is to understand how order volume changes over time, how different customer segments contribute to demand, and how orders are distributed across regions and countries.
 
-Research Question
-
+**Research Question
+**
 How do order trends, customer segments, and geographic regions influence overall order activity?
 
 Dataset
